@@ -1,0 +1,106 @@
+.navbar {
+    background-color: darkslategrey;
+    text-align: right;
+}
+.active {
+    background-color: darkturquoise !important;    
+}
+h1 {
+    font-style: italic;
+    color: darkturquoise;
+    padding-right: 10%;
+}
+header {
+    background-color: darkslategrey;
+    width: 101%;
+}
+.navbar li a {
+    color: darkturquoise;
+    background-color: darkturquoise;
+}
+.navbar li a:hover {
+    color: white;
+}
+#texto0 {
+    text-align: center;
+    color: darkturquoise;
+}
+footer {
+    background-color: darkslategrey;
+    padding-top: 1%;
+    padding-bottom: 1%;
+    width: 101.9%;
+}
+.fa {
+    padding-top: 4%;
+    color: white;
+    text-align: center;
+    width: 180px;
+    font-size: +20;
+}
+a {
+    text-decoration: none;
+}
+.texto1 h4 {
+    background-color:	#C0C0C0;
+}
+.tel{
+    color: white;
+}
+.face {
+    color: rgba(0, 0, 255, 0.815);
+}
+.insta {
+    color:#DA70D6;
+}
+.tele {
+    color:deepskyblue;
+}
+a:hover {
+    color: white;
+}
+
+main {
+    background-color: gainsboro;;
+}
+.tudo {
+    background-color: gainsboro;;
+    width: 99%;
+}
+img {
+    width: 90%;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 1%;
+}
+.texto1 {
+    background-color: #D3D3D3;
+}
+
+body::-webkit-scrollbar {
+    width: 12px;               /* width of the entire scrollbar */
+}
+  
+body::-webkit-scrollbar-track {
+    background: gray;        /* color of the tracking area */
+}
+  
+body::-webkit-scrollbar-thumb {
+    background-color: darkslategrey;    /* color of the scroll thumb */
+    border-radius: 20px;       /* roundness of the scroll thumb */
+    border: 3px solid darkslategrey;  /* creates padding around scroll thumb */
+}
+.tabel, th, td {
+    background-color: #D3D3D3;
+    border: 1px solid darkslategrey;
+    text-align: center;
+  } 
+.tabel, th, td {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 35px;
+    padding-left: 35px;
+}
+.att {
+    background-color: deepskyblue;
+}
